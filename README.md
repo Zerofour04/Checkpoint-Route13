@@ -1,2 +1,1 @@
-# Checkpoint-Route13
- A Checkpoint for FiveM
+Hey, that's my first release.
