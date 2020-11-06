@@ -8,11 +8,11 @@ A YMAP for FiveM
 https://forum.cfx.re/t/release-ymap-a-checkpoint-at-route-13/1700260
 
 ## Dependencies
-[https://img.shields.io/badge/requirement-FiveM%20Server-red][https://github.com/citizenfx/cfx-server-data]
+[![Dependencies](https://img.shields.io/badge/requirement-FiveM%20Server-red)](https://github.com/citizenfx/cfx-server-data)
 
 ## 🔧Installation:
-- 1. Download it and put in the resource folder
-- 2. Start in `server.cfg`
+- 1.Download it and put in the resource folder
+- 2.Start in `server.cfg`
 
 ### Version:
 [https://img.shields.io/github/downloads/Zerofour04/Checkpoint-Route13/1.0/total?style=for-the-badge][https://github.com/Zerofour04/Checkpoint-Route13/releases/tag/1.0]
