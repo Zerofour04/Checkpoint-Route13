@@ -15,6 +15,7 @@ https://forum.cfx.re/t/release-ymap-a-checkpoint-at-route-13/1700260
 - 2.Start in `server.cfg`
 
 ### Version:
+[![Version](https://img.shields.io/github/v/tag/Zerofour04/Checkpoint-Route13?style=for-the-badge)](https://github.com/Zerofour04/Checkpoint-Route13/releases/tag/1.0.1)
 [![Version](https://img.shields.io/github/downloads/Zerofour04/Checkpoint-Route13/1.0/total?style=for-the-badge)](https://github.com/Zerofour04/Checkpoint-Route13/releases/tag/1.0)
 
 ## Issue: 
