@@ -29,20 +29,20 @@ https://forum.cfx.re/t/release-ymap-a-checkpoint-at-route-13/1700260
 <br />
 
 ## 🧱Dependencies
-![Dep][https://img.shields.io/badge/requirement-FiveM%20Server-red?style=for-the-badge](https://github.com/citizenfx/cfx-server-data)
+[![Dep](https://img.shields.io/badge/requirement-FiveM%20Server-red?style=for-the-badge)](https://github.com/citizenfx/cfx-server-data)
 
 ## 🔧Installation:
 - 1.Download it and put in the resource folder
 - 2.Start in `server.cfg`
 
 ### 🖥️Version:
-![Ver][https://img.shields.io/github/v/tag/Zerofour04/zero_checkpointmap?label=Newest%20Version&style=for-the-badge]()
+[![Ver](https://img.shields.io/github/v/tag/Zerofour04/zero_checkpointmap?label=Newest%20Version&style=for-the-badge)](https://github.com/citizenfx/cfx-server-data)
 
 ### ❓Issue: 
-![Iss][https://img.shields.io/github/issues/Zerofour04/Checkpoint-Route13?style=for-the-badge](https://github.com/Zerofour04/Checkpoint-Route13/issues)
+[![Iss](https://img.shields.io/github/issues/Zerofour04/Checkpoint-Route13?style=for-the-badge)](https://github.com/Zerofour04/Checkpoint-Route13/issues)
 
 ### 📓License/Creator:
-![Lic][https://img.shields.io/github/license/Zerofour04/Checkpoint-Route13?style=for-the-badge](https://github.com/Zerofour04/Checkpoint-Route13/blob/master/LICENSE)
+[![Lic](https://img.shields.io/github/license/Zerofour04/Checkpoint-Route13?style=for-the-badge)](https://github.com/Zerofour04/Checkpoint-Route13/blob/master/LICENSE)
 
 PLEASE DON'T REUPLOAD THIS MAP ON OTHER PLATFORMS! YOU CAN FORK IT!!!!
 
