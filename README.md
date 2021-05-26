@@ -10,7 +10,6 @@ A YMAP for FiveM
 
 ### 🖼️FiveM Forum
 [![FiveM](https://img.shields.io/badge/Forum-Link-blue?style=for-the-badge)](https://forum.cfx.re/t/release-ymap-a-checkpoint-at-route-13/1700260)
-https://forum.cfx.re/t/release-ymap-a-checkpoint-at-route-13/1700260
 
 <details>
   <summary>🖼️Images </summary>
